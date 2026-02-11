@@ -3,7 +3,7 @@ secondary_name: "Lin Lin"
 navbar_name: "Homepage"
 
 positions:
-- logo: /assets/images/badges/royal_college_of_arts.svg  # Logo is optional
+- logo: assets/images/badges/rca logo black.png# Logo is optional
   name: Product Designer | MA Design | Royal College of Art
 # - name: Position 2 without logo
 
