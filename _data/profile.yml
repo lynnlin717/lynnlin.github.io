@@ -8,7 +8,7 @@ positions:
 # - name: Position 2 without logo
 
 
-email: "177@qq.com"
+email: "177037@qq.com"
 cv_link: /assets/CV/cv.pdf  #IDK
 gscholar: XbCCGC4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: Lynnlin717
@@ -23,7 +23,8 @@ orcid: 0009-0008-0933-6439
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I'm an interdisciplinary researcher interested in applying GeoAI methods to advance urban science, 
+    I'm an innovation-driven interaction designer based on industrial design and digital art, 
+    specialising in strategic design and social research.
     understand human-environment interactions in 3D urban space, and leverage 3D Mesh Model, street view and remote sensing for urban perception and analysis.
     <img src="assets/images/photos/interst.png" alt="Research Interests" 
          style="float: left; width: 350px; margin-right: 10px; border-radius: 8px;">
